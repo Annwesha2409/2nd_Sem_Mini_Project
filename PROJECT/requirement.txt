@@ -1,0 +1,2 @@
+Must have the GAMEEMO dataset downloaded.
+Must have Anaconda with all necessary libraries like pywavelet and antropy installed.
